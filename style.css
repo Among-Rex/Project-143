@@ -1,0 +1,44 @@
+#top {
+    border-radius: 0px;
+    width: 2000px;
+    text-align: left;
+}
+
+.instructions {
+    border-color: white;
+}
+
+h4 {
+    background-color: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+tag {
+    color:coral;
+}
+
+tag2 {
+    color:green;
+}
+
+tag3 {
+    color:orange;
+}
+
+tag4 {
+    color:red;
+}
+
+tag5 {
+    color:violet;
+}
